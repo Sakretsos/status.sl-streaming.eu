@@ -7,6 +7,8 @@ sites:
     url: $S1_LONDON
   - name: S1 Poland
     url: $S1_POLAND
+  - name: DEV Paris
+    url: $DEV_PARIS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
