@@ -24,19 +24,19 @@
     "url": "$S1_POLAND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s1-poland",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 891,
-    "timeWeek": 704,
-    "timeMonth": 710,
-    "timeYear": 710,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 701,
+    "timeDay": 734,
+    "timeWeek": 690,
+    "timeMonth": 701,
+    "timeYear": 701,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 13
     }
   },
   {
