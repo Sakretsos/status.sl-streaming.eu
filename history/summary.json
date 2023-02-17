@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s1-london",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 796,
-    "timeDay": 836,
-    "timeWeek": 769,
-    "timeMonth": 809,
-    "timeYear": 796,
+    "uptimeYear": "99.97%",
+    "time": 800,
+    "timeDay": 948,
+    "timeWeek": 795,
+    "timeMonth": 810,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2023-01-25": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 733,
-    "timeWeek": 715,
-    "timeMonth": 777,
-    "timeYear": 759,
+    "time": 764,
+    "timeDay": 922,
+    "timeWeek": 742,
+    "timeMonth": 776,
+    "timeYear": 764,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 676,
-    "timeWeek": 689,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "time": 748,
+    "timeDay": 859,
+    "timeWeek": 705,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   }
 ]
