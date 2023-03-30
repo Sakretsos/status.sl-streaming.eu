@@ -42,19 +42,19 @@
     "url": "$DEV_PARIS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-paris",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 583,
-    "timeWeek": 698,
-    "timeMonth": 716,
-    "timeYear": 724,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 726,
+    "timeDay": 712,
+    "timeWeek": 715,
+    "timeMonth": 720,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2023-03-30": 0
+      "2023-03-30": 17
     }
   }
 ]
