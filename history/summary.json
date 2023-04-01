@@ -24,9 +24,9 @@
     "url": "$S1_POLAND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s1-poland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 745,
     "timeMonth": 764,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-01": 0
+    }
   },
   {
     "name": "DEV Paris",
