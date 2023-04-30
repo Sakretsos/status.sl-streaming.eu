@@ -4,9 +4,9 @@
     "url": "$S1_POLAND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s1-poland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 722,
     "timeMonth": 738,
     "timeYear": 756,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-30": 0
+    }
   },
   {
     "name": "S2 London",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-paris",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.68%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 714,
     "timeDay": 542,
     "timeWeek": 681,
