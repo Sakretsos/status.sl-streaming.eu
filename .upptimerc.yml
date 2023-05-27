@@ -5,8 +5,8 @@ repo: status.sl-streaming.eu # The name of this repository
 sites:
   - name: S1 Poland
     url: $S1_POLAND
-  - name: S2 London
-    url: $S2_LONDON
+  - name: S2 Germany
+    url: $S2_GERMANY
   - name: DEV Paris
     url: $DEV_PARIS
 
