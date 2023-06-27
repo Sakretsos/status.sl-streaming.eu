@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 749,
-    "timeDay": 889,
-    "timeWeek": 718,
-    "timeMonth": 741,
-    "timeYear": 749,
+    "time": 750,
+    "timeDay": 907,
+    "timeWeek": 763,
+    "timeMonth": 740,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2023-04-30": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 714,
-    "timeDay": 862,
-    "timeWeek": 690,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "time": 719,
+    "timeDay": 875,
+    "timeWeek": 740,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2023-05-28": 17
     }
@@ -45,14 +45,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-paris",
     "status": "up",
-    "uptime": "93.87%",
+    "uptime": "93.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.87%",
+    "uptimeYear": "93.91%",
     "time": 711,
-    "timeDay": 861,
-    "timeWeek": 640,
+    "timeDay": 849,
+    "timeWeek": 685,
     "timeMonth": 669,
     "timeYear": 711,
     "dailyMinutesDown": {
