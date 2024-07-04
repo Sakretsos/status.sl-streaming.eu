@@ -4,10 +4,10 @@
     "url": "$S1_GERMANY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s1-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 652,
@@ -15,16 +15,18 @@
     "timeWeek": 691,
     "timeMonth": 695,
     "timeYear": 652,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-04": 1
+    }
   },
   {
     "name": "S2 Germany",
     "url": "$S2_GERMANY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s2-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
@@ -34,6 +36,7 @@
     "timeMonth": 821,
     "timeYear": 734,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-03-14": 119,
       "2024-03-11": 32,
       "2024-03-10": 243,
