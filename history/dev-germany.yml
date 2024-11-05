@@ -1,7 +1,7 @@
 url: $DEV_GERMANY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-05T03:53:36.653Z
+status: up
+code: 200
+responseTime: 1126
+lastUpdated: 2024-11-05T04:11:35.305Z
 startTime: 2024-03-08T10:40:16.264Z
 generator: Upptime <https://github.com/upptime/upptime>
