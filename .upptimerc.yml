@@ -41,5 +41,7 @@ workflowSchedule:
   updates: "5 3 * * *"
   uptime: "5,20,35,50 * * * *"
 
+slstreaming-runner: "[self-hosted, Linux, X64]"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
