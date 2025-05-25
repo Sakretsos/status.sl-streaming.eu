@@ -5,8 +5,10 @@ repo: status.sl-streaming.eu # The name of this repository
 sites:
   - name: S1 Germany
     url: $S1_GERMANY
+    delay: 5000
   - name: S2 Germany
     url: $S2_GERMANY
+    delay: 5000
   - name: DEV Germany
     url: $DEV_GERMANY
 
@@ -43,6 +45,9 @@ workflowSchedule:
 
 runner: "[self-hosted, slstreaming]"
 user-agent: Sakretsos
+
+i18n:
+  footer: This page is [open source]($REPO)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
