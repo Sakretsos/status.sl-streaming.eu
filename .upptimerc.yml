@@ -9,8 +9,12 @@ sites:
   - name: S2 Germany
     url: $S2_GERMANY
     delay: 5000
+  - name: US
+    url: $US
+    delay: 5000
   - name: DEV Germany
     url: $DEV_GERMANY
+    delay: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
