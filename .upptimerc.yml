@@ -9,8 +9,8 @@ sites:
   - name: S2 Germany
     url: $S2_GERMANY
     delay: 5000
-  - name: US
-    url: $US
+  - name: US Ashburn
+    url: $US_ASHBURN
     delay: 5000
   - name: DEV Germany
     url: $DEV_GERMANY
@@ -51,7 +51,7 @@ runner: "[self-hosted, slstreaming]"
 user-agent: Sakretsos
 
 i18n:
-  footer: This page is [open source]($REPO)
+  footer: This page is [open source] ($REPO)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
