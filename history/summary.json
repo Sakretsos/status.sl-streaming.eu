@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 111,
-    "timeWeek": 90,
-    "timeMonth": 81,
+    "time": 305,
+    "timeDay": 117,
+    "timeWeek": 94,
+    "timeMonth": 83,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-05-22": 18
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 97,
+    "time": 400,
+    "timeDay": 106,
+    "timeWeek": 103,
+    "timeMonth": 98,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2025-09-11": 15
@@ -44,18 +44,20 @@
     "url": "$US",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 658,
-    "timeWeek": 666,
-    "timeMonth": 665,
+    "timeDay": 652,
+    "timeWeek": 663,
+    "timeMonth": 664,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-23": 0
+    }
   },
   {
     "name": "DEV Germany",
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 415,
-    "timeDay": 102,
-    "timeWeek": 101,
+    "time": 413,
+    "timeDay": 99,
+    "timeWeek": 100,
     "timeMonth": 101,
-    "timeYear": 291,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2025-11-26": 18,
       "2025-05-22": 17,
