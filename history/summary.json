@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 1098,
-    "timeWeek": 1128,
-    "timeMonth": 1233,
-    "timeYear": 257,
+    "time": 336,
+    "timeDay": 1140,
+    "timeWeek": 1104,
+    "timeMonth": 1226,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 1092,
-    "timeWeek": 1239,
-    "timeMonth": 1237,
-    "timeYear": 305,
+    "time": 407,
+    "timeDay": 1307,
+    "timeWeek": 1249,
+    "timeMonth": 1235,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2025-09-11": 15
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-ashburn",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "99.75%",
-    "time": 444,
-    "timeDay": 380,
-    "timeWeek": 470,
-    "timeMonth": 481,
-    "timeYear": 444,
+    "uptimeYear": "99.76%",
+    "time": 442,
+    "timeDay": 280,
+    "timeWeek": 474,
+    "timeMonth": 470,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2026-05-30": 272
     }
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
-    "timeDay": 1031,
-    "timeWeek": 1841,
-    "timeMonth": 1388,
-    "timeYear": 316,
+    "timeDay": 968,
+    "timeWeek": 1804,
+    "timeMonth": 1372,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2025-11-26": 18
     }
