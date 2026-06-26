@@ -4,18 +4,20 @@
     "url": "$S1_GERMANY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s1-germany",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 1005,
-    "timeWeek": 1165,
-    "timeMonth": 1223,
-    "timeYear": 314,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
+    "time": 358,
+    "timeDay": 1147,
+    "timeWeek": 1180,
+    "timeMonth": 1225,
+    "timeYear": 317,
+    "dailyMinutesDown": {
+      "2026-06-26": 88
+    }
   },
   {
     "name": "S2 Germany",
