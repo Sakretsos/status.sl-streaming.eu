@@ -11,10 +11,10 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 360,
-    "timeDay": 1042,
-    "timeWeek": 1204,
-    "timeMonth": 1217,
-    "timeYear": 322,
+    "timeDay": 786,
+    "timeWeek": 1099,
+    "timeMonth": 1199,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2026-06-26": 88
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 424,
-    "timeDay": 1047,
-    "timeWeek": 1203,
-    "timeMonth": 1254,
-    "timeYear": 358,
+    "timeDay": 983,
+    "timeWeek": 1059,
+    "timeMonth": 1233,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2025-09-11": 15
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-ashburn",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 476,
-    "timeDay": 809,
-    "timeWeek": 531,
-    "timeMonth": 565,
+    "timeDay": 445,
+    "timeWeek": 518,
+    "timeMonth": 554,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2026-05-30": 272
@@ -66,15 +66,15 @@
     "slug": "dev-germany",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 436,
-    "timeDay": 1314,
-    "timeWeek": 1176,
-    "timeMonth": 1377,
-    "timeYear": 370,
+    "time": 437,
+    "timeDay": 816,
+    "timeWeek": 1074,
+    "timeMonth": 1346,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2025-11-26": 18,
       "2026-06-27": 29
