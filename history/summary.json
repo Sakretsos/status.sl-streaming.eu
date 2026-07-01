@@ -10,11 +10,11 @@
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 361,
-    "timeDay": 1132,
-    "timeWeek": 1026,
-    "timeMonth": 1192,
-    "timeYear": 329,
+    "time": 362,
+    "timeDay": 965,
+    "timeWeek": 1001,
+    "timeMonth": 1180,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2026-06-26": 88
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 1241,
-    "timeWeek": 1034,
-    "timeMonth": 1209,
-    "timeYear": 364,
+    "time": 426,
+    "timeDay": 1031,
+    "timeWeek": 1007,
+    "timeMonth": 1197,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2025-09-11": 15
     }
@@ -50,34 +50,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 472,
-    "timeDay": 274,
-    "timeWeek": 474,
-    "timeMonth": 551,
-    "timeYear": 472,
+    "time": 471,
+    "timeDay": 337,
+    "timeWeek": 464,
+    "timeMonth": 546,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2026-05-30": 272
-    }
-  },
-  {
-    "name": "DEV Germany",
-    "url": "$DEV_GERMANY",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "dev-germany",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 439,
-    "timeDay": 1556,
-    "timeWeek": 1107,
-    "timeMonth": 1343,
-    "timeYear": 377,
-    "dailyMinutesDown": {
-      "2025-11-26": 18,
-      "2026-06-27": 29
     }
   }
 ]
