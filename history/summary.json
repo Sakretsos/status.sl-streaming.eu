@@ -44,9 +44,9 @@
     "url": "$US_ASHBURN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-ashburn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -56,7 +56,8 @@
     "timeMonth": 539,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2026-05-30": 272
+      "2026-05-30": 272,
+      "2026-07-08": 0
     }
   }
 ]
