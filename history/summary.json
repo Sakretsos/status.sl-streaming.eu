@@ -6,10 +6,10 @@
     "slug": "s1-germany",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
     "time": 384,
     "timeDay": 1914,
     "timeWeek": 1479,
@@ -17,7 +17,7 @@
     "timeYear": 388,
     "dailyMinutesDown": {
       "2026-06-26": 88,
-      "2026-07-20": 5,
+      "2026-07-20": 53,
       "2026-07-19": 0
     }
   },
@@ -28,10 +28,10 @@
     "slug": "s2-germany",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 440,
     "timeDay": 1472,
     "timeWeek": 1314,
@@ -39,7 +39,7 @@
     "timeYear": 412,
     "dailyMinutesDown": {
       "2025-09-11": 15,
-      "2026-07-20": 0
+      "2026-07-20": 48
     }
   },
   {
