@@ -1,7 +1,7 @@
 url: $S2_GERMANY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-15T09:53:47.863Z
+status: up
+code: 200
+responseTime: 1320
+lastUpdated: 2026-08-15T10:32:21.501Z
 startTime: 2023-05-27T09:36:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
