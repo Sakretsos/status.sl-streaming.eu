@@ -4,13 +4,13 @@
     "url": "$S1_GERMANY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s1-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "99.87%",
-    "time": 414,
+    "time": 413,
     "timeDay": 1473,
     "timeWeek": 1152,
     "timeMonth": 1231,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-06-26": 88,
       "2026-07-20": 570,
-      "2026-07-19": 0
+      "2026-07-19": 0,
+      "2026-08-15": 10
     }
   },
   {
@@ -26,11 +27,11 @@
     "url": "$S2_GERMANY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s2-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "99.89%",
     "time": 458,
     "timeDay": 1323,
@@ -39,7 +40,8 @@
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-09-11": 15,
-      "2026-07-20": 565
+      "2026-07-20": 565,
+      "2026-08-15": 5
     }
   },
   {
@@ -47,9 +49,9 @@
     "url": "$US_ASHBURN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-ashburn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -60,7 +62,8 @@
     "timeYear": 503,
     "dailyMinutesDown": {
       "2026-05-30": 272,
-      "2026-07-08": 54
+      "2026-07-08": 54,
+      "2026-08-15": 0
     }
   }
 ]
