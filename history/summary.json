@@ -4,13 +4,13 @@
     "url": "$S1_GERMANY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "s1-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 457,
+    "time": 458,
     "timeDay": 919,
     "timeWeek": 1167,
     "timeMonth": 1163,
@@ -19,7 +19,8 @@
       "2026-06-26": 88,
       "2026-07-20": 570,
       "2026-07-19": 0,
-      "2026-08-15": 43
+      "2026-08-15": 43,
+      "2026-09-20": 0
     }
   },
   {
